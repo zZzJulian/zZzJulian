@@ -1,4 +1,4 @@
-public class Life {
+```public class Life {
 
   private boolean isAlive;
 
@@ -13,3 +13,4 @@ public class Life {
    }
   }
 }
+```
