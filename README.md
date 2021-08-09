@@ -1,14 +1,14 @@
-public class Life {
+#public class Life {
 
-  private boolean isAlive;
+#  private boolean isAlive;
 
-  public static void main(String[] args) {
+#  public static void main(String[] args) {
   
-    if (isAlive) {
+#    if (isAlive) {
     
-      this.eat();
-      this.sleep();
-      this.programm();
-    }
-  }
-}
+#      this.eat();
+#      this.sleep();
+#      this.programm();
+#    }
+#  }
+#}
